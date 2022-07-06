@@ -10,15 +10,15 @@
     <?php
         $valor= rand(1,5);
         if ($valor==1){
-            echo "El número $valor es impar";
+            echo "El número $valor es IMPAR";
         } else 
             if ($valor==3){
-                echo "El número $valor es impar";
+                echo "El número $valor es IMPAR";
             } else 
                  if ($valor==5){
-                    echo "El número $valor es impar";
+                    echo "El número $valor es IMPAR";
                 } else {
-                    echo "El número $valor es par";
+                    echo "El número $valor es PAR";
                 } 
 
         
