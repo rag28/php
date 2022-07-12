@@ -82,8 +82,8 @@ $aProductos[] = array("nombre" => "Radiadores 12 celdas",
                         </tr>
 
                         <?php
- 
-                        } ?>
+                        } 
+                        ?>
 
                     </tbody>
 
