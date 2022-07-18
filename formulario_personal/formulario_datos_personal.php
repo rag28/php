@@ -18,7 +18,7 @@
                     <div class="card shadow-lg p-3 mb-2 bg-primary text-white">Ingrese Datos</div>
                     <div class="my-3">
                         <label for="txtcuit" class="form-label">Nombre</label>
-                        <input type="text" name="txt_nombre" class="form-control" id="txtnombre" placeholder="ingrese Nombre" require>
+                        <input type="text" name="txt_nombre" class="form-control" id="txtnombre" placeholder="ingrese nombre" require>
                     </div>
                     <div class="my-3">
                         <label for="txtdni" class="form-label">Dni</label>
@@ -26,11 +26,11 @@
                     </div>
                     <div class="my-3">
                         <label for="txttelefono" class="form-label">Teléfono</label>
-                        <input type="text" name="txt_telefono" class="form-control" id="txttelefono" placeholder="Ingrese Telefono" requered>
+                        <input type="text" name="txt_telefono" class="form-control" id="txttelefono" placeholder="Ingrese telefono" requered>
                     </div>
                     <div class="my-3">
                         <label for="txtedad" class="form-label">Edad</label>
-                        <input type="number" name="txt_edad" class="form-control" id="txtedad" placeholder="Ingrese Edad" requered>
+                        <input type="number" name="txt_edad" class="form-control" id="txtedad" placeholder="Ingrese edad" requered>
                     </div>
 
                     <div class="my-3 text-center">
